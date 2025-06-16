@@ -45,11 +45,4 @@ This project applies Natural Language Processing (NLP), machine learning, and cl
 
 ---
 
-## 🔍 Project Files
 
-```bash
-.
-├── notebooks/                    # Jupyter Notebooks with modeling & visualizations
-├── docs/                         # Full implementation paper (PDF)
-├── presentation/                 # PowerPoint slide deck
-└── README.md
